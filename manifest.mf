@@ -1,0 +1,5 @@
+Manifest-Version: 1.1
+OpenIDE-Module: org.netbeans.modules.cppkeywords
+OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/cppkeywords/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.1
+
